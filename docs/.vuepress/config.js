@@ -2,7 +2,7 @@ module.exports = {
     base: '/blog/',         //站点根路径
     title: '李嘉诚的博客',  //网站标题
     dest: './dist',
-
+    repo:'https://github.com/136917909/blog',
 
     themeConfig: {
         repo: 'https://github.com/136917909/blog',
